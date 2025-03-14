@@ -1,0 +1,38 @@
+[
+    {
+        "cod": "A23",
+        "nome": "Agua",
+        "quant": 0,
+        "preco": 0.7
+    },
+    {
+        "cod": "B12",
+        "nome": "Refrigerante",
+        "quant": 8,
+        "preco": 1.2
+    },
+    {
+        "cod": "C45",
+        "nome": "Chocolate",
+        "quant": 5,
+        "preco": 1.5
+    },
+    {
+        "cod": "D78",
+        "nome": "Batatas Fritas",
+        "quant": 14,
+        "preco": 1.0
+    },
+    {
+        "cod": "E34",
+        "nome": "Bolachas",
+        "quant": 7,
+        "preco": 1.3
+    },
+    {
+        "cod": "F56",
+        "nome": "Chicletes",
+        "quant": 19,
+        "preco": 0.5
+    }
+]
